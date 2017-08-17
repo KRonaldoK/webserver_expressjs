@@ -11,7 +11,7 @@
 3. O POST está mapeado através do Router do Express.js. A implementação da persistência no JSON não está feita. o controle desta API retorna o JSON que foi enviado no body no objeto "response".
 
 4. Esta aplicação...
-    * Utiliza módulos do **Node.js** e **Javascript assíncrono** para atender aos requests.
+    * ... utiliza módulos do **Node.js** e **Javascript assíncrono** para atender aos requests.
     * ... gerencia as suas respectivas dependências com **npm**;
     * ... entrega **dados e arquivos estáticos** através do Express.js;
     * ... **instancia** o middleware **Express**;
